@@ -2,37 +2,41 @@
 
 <img src="./assets/lcode-banner.gif" width="100%" alt="LCODE Banner">
 
-<br>
+<br><br>
 
-# Lucas | Full Stack Developer
+# 🚀 Lucas
 
-### Founder & Developer at LCODE
+### Founder & Full Stack Developer @ LCODE
 
-**Criando sistemas, sites e soluções digitais com tecnologia, design e inovação.**
+**Transformando ideias em código.**
 
 <br>
 
 <img src="https://img.shields.io/badge/LCODE-00C2FF?style=for-the-badge&logo=code&logoColor=white">
-<img src="https://img.shields.io/badge/FULL%20STACK-7B2EFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/DEVELOPMENT-FF2D95?style=for-the-badge">
+<img src="https://img.shields.io/badge/FULL_STACK-7B2EFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-FF2D95?style=for-the-badge">
 
 </div>
 
 ---
 
-# 🚀 Sobre mim
+<div align="center">
 
-Olá, eu sou **Lucas**, fundador da **LCODE** e desenvolvedor focado na criação de soluções digitais completas.
+# 👨‍💻 Sobre mim
 
-Trabalho desenvolvendo:
+</div>
 
-* 🌐 Sites profissionais
-* ⚙️ Sistemas personalizados
-* 🔌 APIs e integrações
-* 🗄️ Aplicações com banco de dados
-* 🎨 Interfaces modernas e responsivas
+Olá! Eu sou **Lucas**, fundador da **LCODE** e desenvolvedor Full Stack.
 
-Meu objetivo é transformar ideias em produtos digitais funcionais, profissionais e preparados para empresas reais.
+Crio soluções digitais completas para empresas, desenvolvendo desde interfaces modernas até sistemas com backend, banco de dados e APIs.
+
+Meu foco é criar produtos digitais:
+
+✨ Profissionais
+⚡ Rápidos
+🎨 Bonitos e intuitivos
+⚙️ Escaláveis
+🚀 Preparados para necessidades reais
 
 ---
 
@@ -44,28 +48,31 @@ Meu objetivo é transformar ideias em produtos digitais funcionais, profissionai
 
 </div>
 
-A **LCODE** é uma marca focada no desenvolvimento de soluções digitais personalizadas.
+A **LCODE** nasceu com o objetivo de transformar ideias em soluções digitais através de tecnologia e inovação.
 
-Identidade:
+Áreas de atuação:
 
-<div align="center">
-
-🔵 `#00C2FF`
-🔷 `#0066FF`
-🟣 `#7B2EFF`
-🌸 `#FF2D95`
-
-</div>
+```
+🌐 Sites Institucionais
+⚙️ Sistemas Personalizados
+🔌 APIs e Integrações
+🗄️ Aplicações com Banco de Dados
+📱 Soluções Digitais
+```
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tecnologias que utilizo
 
 <div align="center">
 
 ## Front-end
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,tailwind">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,tailwind">
+
+<br>
+
+HTML5 • CSS3 • JavaScript • TypeScript • React • Vite • Tailwind CSS
 
 <br><br>
 
@@ -73,11 +80,19 @@ Identidade:
 
 <img src="https://skillicons.dev/icons?i=nodejs,express">
 
+<br>
+
+Node.js • Express.js • APIs REST • CRUD • Integração Front-end/Back-end
+
 <br><br>
 
 ## Banco de Dados
 
 <img src="https://skillicons.dev/icons?i=mysql">
+
+<br>
+
+MySQL • Modelagem de Dados • SQL • Relacionamentos • Consultas
 
 <br><br>
 
@@ -85,120 +100,110 @@ Identidade:
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm">
 
+<br>
+
+Git • GitHub • VS Code • npm
+
 </div>
 
 ---
 
-# 🧠 Conhecimentos
+# 🚀 Projetos em destaque
 
-### Linguagens
+<table>
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* SQL
+<tr>
 
-### Desenvolvimento
-
-* Front-end Development
-* Back-end Development
-* Full Stack Development
-* APIs REST
-* CRUD
-* Integração Front-end + Back-end
-* Responsividade
-* UI/UX
-
-### Banco de Dados
-
-* MySQL
-* Modelagem de dados
-* Relacionamentos
-* Consultas SQL
-
-### Ferramentas
-
-* Git
-* GitHub
-* Visual Studio Code
-* npm
-
----
-
-# 🚀 Projetos LCODE
-
-<br>
+<td width="33%" align="center">
 
 ## 🏥 Clínica Vida+
 
-### Sistema de Gestão Médica
+<img src="./assets/clinica.png" width="250">
 
-Sistema completo desenvolvido para gerenciamento de clínicas.
+Sistema completo de gestão médica.
 
 ### Tecnologias:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql">
+`Node.js`
+`Express`
+`MySQL`
+`HTML`
+`CSS`
+`JavaScript`
 
-### Funcionalidades:
+### Recursos:
 
-✔ Cadastro de pacientes
-✔ Gestão de médicos
-✔ Agendamento de consultas
-✔ Controle administrativo
-✔ Controle de pagamentos
-✔ Perfis de usuários
-✔ API própria
-✔ Banco de dados integrado
+✅ Pacientes
+✅ Médicos
+✅ Agendamentos
+✅ Pagamentos
+✅ Sistema administrativo
 
----
+</td>
+
+<td width="33%" align="center">
 
 ## 🥖 Pão Quente
 
-### Site Institucional
+<img src="./assets/pao-quente.png" width="250">
 
-Projeto desenvolvido para apresentar uma empresa de forma moderna e profissional.
+Site institucional moderno.
 
 ### Tecnologias:
 
-<img src="https://skillicons.dev/icons?i=html,css,js">
+`HTML`
+`CSS`
+`JavaScript`
 
-### Funcionalidades:
+### Recursos:
 
-✔ Design responsivo
-✔ Interface personalizada
-✔ Apresentação de produtos
-✔ Navegação otimizada
-✔ Experiência do usuário
+✅ Design responsivo
+✅ Apresentação de produtos
+✅ Interface profissional
+✅ Experiência do usuário
 
----
+</td>
+
+<td width="33%" align="center">
 
 ## 🐾 Pet Alegria
 
-### Plataforma Digital para Empresa Pet
+<img src="./assets/pet-alegria.png" width="250">
 
-Projeto desenvolvido para fortalecer a presença digital da empresa.
+Site para empresa do segmento pet.
 
 ### Tecnologias:
 
-<img src="https://skillicons.dev/icons?i=html,css,js">
+`HTML`
+`CSS`
+`JavaScript`
 
-### Funcionalidades:
+### Recursos:
 
-✔ Página profissional
-✔ Serviços e informações
-✔ Layout personalizado
-✔ Interface intuitiva
+✅ Serviços
+✅ Informações da empresa
+✅ Layout personalizado
+✅ Navegação intuitiva
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
+<div align="center">
+
 # 📊 GitHub Analytics
+
+</div>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent&title_color=00C2FF&icon_color=FF2D95">
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=transparent&title_color=7B2EFF">
 
@@ -206,16 +211,46 @@ Projeto desenvolvido para fortalecer a presença digital da empresa.
 
 ---
 
+# 📚 Conhecimentos
+
 <div align="center">
 
-# 🚀 LCODE
+| Área           | Tecnologias                              |
+| -------------- | ---------------------------------------- |
+| Front-end      | HTML, CSS, JavaScript, TypeScript, React |
+| Back-end       | Node.js, Express                         |
+| Banco de Dados | MySQL, SQL                               |
+| Ferramentas    | Git, GitHub, VS Code, npm                |
+| Conceitos      | APIs REST, CRUD, Responsividade, UI/UX   |
 
-## Transformando ideias em código.
+</div>
+
+---
+
+<div align="center">
+
+# 📫 Vamos conversar?
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LCODE-00C2FF?style=for-the-badge&logo=code">
+</a>
+
+<br><br>
 
 <img src="./assets/lcode-logo.gif" width="100">
 
 <br>
 
-**Lucas • Founder & Developer**
+## 💙 LCODE
+
+### Transformando ideias em código.
 
 </div>
