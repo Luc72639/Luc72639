@@ -1,146 +1,252 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082F49,70:0369A1,100:38BDF8&height=250&section=header&text=LUCAS%20MACHADO%20GON%C3%87ALVES&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=ESTUDANTE%20%7C%20DESENVOLVEDOR%20EM%20FORMA%C3%87%C3%83O&descAlignY=56&descSize=15&descColor=BAE6FD&animation=fadeIn" width="100%"/>
+<img src="logo-lcode.png" width="150">
 
-<br>
+# 🚀 Lucas | Desenvolvedor Full Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=%3E+Aprendendo+enquanto+construo.;%3E+Explorando+novas+tecnologias.;%3E+Transformando+ideias+em+projetos.;%3E+Estudando%2C+desenvolvendo+e+evoluindo." alt="Animação de apresentação"/>
+### Fundador da LCODE • Desenvolvimento Web • Sistemas • Soluções Digitais
 
-<br><br>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-&nbsp;
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=0284C7&label=VISITAS+AO+PERFIL"/>
+<img src="https://img.shields.io/badge/LCODE-00C2FF?style=for-the-badge&logo=code&logoColor=white">
 
 </div>
 
 ---
 
-<div align="center">
+# 👨‍💻 Sobre mim
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                         SOBRE MIM                            ║
-╠══════════════════════════════════════════════════════════════╣
-║  ESTUDANTE        Desenvolvedor em formação                 ║
-║  APRENDIZADO      Em constante evolução                    ║
-║  INTERESSES       Tecnologia • Software • Desenvolvimento  ║
-║  PRINCÍPIO        Aprender construindo                      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+Olá! Eu sou **Lucas**, desenvolvedor e fundador da **LCODE**.
+
+Sou apaixonado por tecnologia e desenvolvimento de soluções digitais, criando desde sites institucionais até sistemas completos com backend, banco de dados e APIs.
+
+Meu foco é desenvolver projetos profissionais, unindo:
+
+* 💻 Código limpo e organizado
+* 🎨 Interfaces modernas
+* ⚙️ Sistemas funcionais
+* 🗄️ Estrutura de dados eficiente
+* 🚀 Experiência do usuário
+
+---
+
+# 🏢 LCODE
+
+A **LCODE** é uma marca de desenvolvimento de software focada em criar soluções digitais personalizadas para empresas.
+
+Projetos desenvolvidos:
+
+🏥 Sistemas de gestão
+🌐 Sites institucionais
+🐾 Plataformas para empresas
+⚙️ Aplicações personalizadas
+
+---
+
+# 🛠️ Stack Tecnológica
+
+## 🌐 Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,nextjs,tailwind">
+
+### Tecnologias utilizadas:
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
+* Vite
+* Next.js
+* Tailwind CSS
+* Responsividade
+* Design de interfaces (UI)
+* Experiência do usuário (UX)
+
+---
+
+# ⚙️ Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs,express">
+
+### Tecnologias utilizadas:
+
+* Node.js
+* Express.js
+* JavaScript no servidor
+* APIs REST
+* Rotas HTTP
+* Integração Front-end/Back-end
+* Desenvolvimento de sistemas web
+
+---
+
+# 🗄️ Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql">
+
+### Tecnologias utilizadas:
+
+* MySQL
+* Modelagem de banco de dados
+* Criação de tabelas
+* Relacionamentos
+* Consultas SQL
+* Integração com aplicações
+* Organização de dados
+
+---
+
+# 🔌 APIs e Integrações
+
+Tecnologias utilizadas:
+
+* APIs REST
+* JSON
+* Requisições HTTP
+* Integração entre sistemas
+* Consumo e criação de endpoints
+
+---
+
+# 🧰 Ferramentas de Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm">
+
+Tecnologias utilizadas:
+
+* Git
+* GitHub
+* Visual Studio Code
+* npm
+* Node Package Manager
+* Controle de versões
+* Organização de projetos
+
+---
+
+# 🚀 Projetos LCODE
+
+## 🏥 Clínica Vida+
+
+Sistema completo de gerenciamento para clínicas médicas.
+
+### Tecnologias:
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql">
 
 </div>
 
-<br>
+### Desenvolvimento:
 
-<table>
-<tr>
+✅ Cadastro de pacientes
+✅ Gestão de médicos
+✅ Agendamento de consultas
+✅ Controle administrativo
+✅ Controle de pagamentos
+✅ Perfis de usuários
+✅ API própria
+✅ Banco de dados integrado
 
-<td width="60%" valign="top">
+---
 
-## `01` · Sobre mim
+# 🥖 Pão Quente
 
-Sou estudante e desenvolvedor em formação, interessado em tecnologia e desenvolvimento de software.
+Site institucional moderno para apresentação de empresa.
 
-Gosto de aprender **colocando ideias em prática**, explorando novas ferramentas e entendendo como as coisas funcionam.
+### Tecnologias:
 
-Atualmente, estou expandindo meus conhecimentos em diferentes áreas da tecnologia e buscando evoluir constantemente como desenvolvedor.
+<div>
 
-</td>
+<img src="https://skillicons.dev/icons?i=html,css,js">
 
-<td width="40%" valign="top">
+</div>
 
-### `foco_atual`
+### Desenvolvimento:
 
-```text
-> Desenvolvimento
-> Programação
-> Tecnologia
-> Software
-> Novas ferramentas
-> Aprendizado
-```
+✅ Layout responsivo
+✅ Interface personalizada
+✅ Apresentação de produtos
+✅ Navegação otimizada
+✅ Design focado no cliente
 
-### `processo`
+---
 
-```text
-APRENDER
-   ↓
-EXPERIMENTAR
-   ↓
-CONSTRUIR
-   ↓
-ENTENDER
-   ↓
-EVOLUIR
-```
+# 🐾 Pet Alegria
 
-</td>
+Site institucional desenvolvido para empresa do segmento pet.
 
-</tr>
-</table>
+### Tecnologias:
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=html,css,js">
+
+</div>
+
+### Desenvolvimento:
+
+✅ Página profissional
+✅ Estrutura responsiva
+✅ Apresentação de serviços
+✅ Interface simples e intuitiva
+
+---
+
+# 📚 Conhecimentos Técnicos
+
+### Linguagens
+
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* SQL
+
+### Frameworks e Bibliotecas
+
+* Node.js
+* Express.js
+* React
+* Next.js
+* Tailwind CSS
+
+### Banco de Dados
+
+* MySQL
+
+### Conceitos
+
+* Front-end
+* Back-end
+* Full Stack
+* APIs REST
+* CRUD
+* Banco de Dados Relacional
+* Responsividade
+* UI/UX
+* Arquitetura de sistemas
+
+---
+
+# 🎯 Objetivos
+
+Atualmente estou focado em:
+
+🚀 Evoluir como desenvolvedor Full Stack
+🏢 Expandir a LCODE
+💻 Criar sistemas profissionais
+🤖 Explorar inteligência artificial aplicada ao desenvolvimento
+🌎 Construir soluções digitais completas
 
 ---
 
 <div align="center">
 
-## `02` · TECNOLOGIAS
+## 🚀 LCODE
 
-<br>
+### Transformando ideias em código.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/WEB-0284C7?style=flat-square"/>
-<img src="https://img.shields.io/badge/PROGRAMAÇÃO-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/TECNOLOGIA-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/DESENVOLVIMENTO-0369A1?style=flat-square"/>
-
-<br><br>
-
-> **Adicione ou remova as tecnologias conforme necessário.**
-
-</div>
-
----
-
-<div align="center">
-
-## `03` · CONTATO
-
-<br>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-&nbsp;
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
-&nbsp;
-<a href="SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=38BDF8"/>
-</a>
-
-<br><br>
-
-`Discord` · **SEU_USUARIO**
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&height=30&lines=Aprendendo+enquanto+construo.;Um+projeto+de+cada+vez." alt="Animação final"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,45:0369A1,100:020617&height=120&section=footer" width="100%"/>
+<img src="logo-lcode.png" width="80">
 
 </div>
