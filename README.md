@@ -1,153 +1,221 @@
 <div align="center">
 
-<img src="https://SEU_LINK_DA_ANIMACAO_DA_LCODE.gif" width="100%">
+<img src="./assets/lcode-banner.gif" width="100%" alt="LCODE Banner">
 
 <br>
 
-# 🚀 Lucas | Desenvolvedor Full Stack
+# Lucas | Full Stack Developer
 
-### Fundador da LCODE • Sistemas • Sites • Soluções Digitais
+### Founder & Developer at LCODE
+
+**Criando sistemas, sites e soluções digitais com tecnologia, design e inovação.**
+
+<br>
 
 <img src="https://img.shields.io/badge/LCODE-00C2FF?style=for-the-badge&logo=code&logoColor=white">
+<img src="https://img.shields.io/badge/FULL%20STACK-7B2EFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/DEVELOPMENT-FF2D95?style=for-the-badge">
 
 </div>
 
 ---
 
+# 🚀 Sobre mim
+
+Olá, eu sou **Lucas**, fundador da **LCODE** e desenvolvedor focado na criação de soluções digitais completas.
+
+Trabalho desenvolvendo:
+
+* 🌐 Sites profissionais
+* ⚙️ Sistemas personalizados
+* 🔌 APIs e integrações
+* 🗄️ Aplicações com banco de dados
+* 🎨 Interfaces modernas e responsivas
+
+Meu objetivo é transformar ideias em produtos digitais funcionais, profissionais e preparados para empresas reais.
+
+---
+
 <div align="center">
 
-## 💻 Transformando ideias em código
+# 🏢 LCODE
+
+### Desenvolvimento de Software • Sites • Sistemas • Soluções Digitais
+
+</div>
+
+A **LCODE** é uma marca focada no desenvolvimento de soluções digitais personalizadas.
+
+Identidade:
+
+<div align="center">
+
+🔵 `#00C2FF`
+🔷 `#0066FF`
+🟣 `#7B2EFF`
+🌸 `#FF2D95`
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
-
-Olá! Eu sou **Lucas**, desenvolvedor e fundador da **LCODE**.
-
-Crio soluções digitais completas, desde sites modernos até sistemas com backend, banco de dados e APIs.
-
-Meu foco:
+# 💻 Tech Stack
 
 <div align="center">
 
-🚀 Desenvolvimento Web  
-⚙️ Sistemas personalizados  
-🎨 Interfaces modernas  
-🗄️ Banco de dados  
-🔌 APIs e integrações  
+## Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,tailwind">
+
+<br><br>
+
+## Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs,express">
+
+<br><br>
+
+## Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql">
+
+<br><br>
+
+## Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm">
 
 </div>
 
 ---
 
-# 🛠️ Tecnologias
+# 🧠 Conhecimentos
 
-<div align="center">
+### Linguagens
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,mysql,react,vite,git,github,vscode&theme=dark">
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* SQL
 
-</div>
+### Desenvolvimento
+
+* Front-end Development
+* Back-end Development
+* Full Stack Development
+* APIs REST
+* CRUD
+* Integração Front-end + Back-end
+* Responsividade
+* UI/UX
+
+### Banco de Dados
+
+* MySQL
+* Modelagem de dados
+* Relacionamentos
+* Consultas SQL
+
+### Ferramentas
+
+* Git
+* GitHub
+* Visual Studio Code
+* npm
 
 ---
 
 # 🚀 Projetos LCODE
 
-
-<table>
-
-<tr>
-
-<td width="50%">
+<br>
 
 ## 🏥 Clínica Vida+
 
-Sistema completo de gestão médica.
+### Sistema de Gestão Médica
 
-Tecnologias:
+Sistema completo desenvolvido para gerenciamento de clínicas.
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,html,css,js">
+### Tecnologias:
 
-<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql">
 
-✅ Pacientes  
-✅ Médicos  
-✅ Agendamentos  
-✅ Pagamentos  
-✅ API própria  
+### Funcionalidades:
 
-</td>
+✔ Cadastro de pacientes
+✔ Gestão de médicos
+✔ Agendamento de consultas
+✔ Controle administrativo
+✔ Controle de pagamentos
+✔ Perfis de usuários
+✔ API própria
+✔ Banco de dados integrado
 
-
-<td width="50%">
+---
 
 ## 🥖 Pão Quente
 
-Site institucional profissional.
+### Site Institucional
 
-Tecnologias:
+Projeto desenvolvido para apresentar uma empresa de forma moderna e profissional.
 
-<img src="https://skillics.dev/icons?i=html,css,js">
-
-<br>
-
-✅ Design responsivo  
-✅ Interface moderna  
-✅ Apresentação comercial  
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%">
-
-## 🐾 Pet Alegria
-
-Site para empresa do segmento pet.
-
-Tecnologias:
+### Tecnologias:
 
 <img src="https://skillicons.dev/icons?i=html,css,js">
 
-<br>
+### Funcionalidades:
 
-✅ Página profissional  
-✅ Serviços  
-✅ Experiência do usuário  
-
-</td>
-
-</tr>
-
-</table>
-
+✔ Design responsivo
+✔ Interface personalizada
+✔ Apresentação de produtos
+✔ Navegação otimizada
+✔ Experiência do usuário
 
 ---
 
-# 📊 GitHub Stats
+## 🐾 Pet Alegria
+
+### Plataforma Digital para Empresa Pet
+
+Projeto desenvolvido para fortalecer a presença digital da empresa.
+
+### Tecnologias:
+
+<img src="https://skillicons.dev/icons?i=html,css,js">
+
+### Funcionalidades:
+
+✔ Página profissional
+✔ Serviços e informações
+✔ Layout personalizado
+✔ Interface intuitiva
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&icon_color=FF2D95">
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent&title_color=00C2FF&icon_color=FF2D95">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=7B2EFF">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=transparent&title_color=7B2EFF">
 
 </div>
 
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer">
+# 🚀 LCODE
 
-### 🚀 LCODE
-### Transformando ideias em código.
+## Transformando ideias em código.
+
+<img src="./assets/lcode-logo.gif" width="100">
+
+<br>
+
+**Lucas • Founder & Developer**
 
 </div>
